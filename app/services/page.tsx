@@ -141,7 +141,7 @@ export default function ServicesPage() {
                 badgeText={partner.badge}
                 title={partner.title}
                 description={partner.desc}
-                iconName={partner.icon}
+                // iconName={partner.icon}
                 actionText="Enquire Services"
                 actionHref="/contact"
                 className={`${partner.border || ''}`}
