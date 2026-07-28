@@ -87,7 +87,7 @@ Ensure you have Node.js installed on your system:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/amazepms.git
+git clone https://github.com/mustafagaut/amazepms.git
 cd amazepms
 ```
 
